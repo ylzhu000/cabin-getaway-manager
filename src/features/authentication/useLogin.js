@@ -9,7 +9,7 @@ export function useLogin() {
 		mutationFn: ({ email, password }) => loginApi({ email, password }),
 		onSuccess: (user) => {
 			// Avoid full page spinner if coming from login page
-			queryClient.setQueriesData(["user"], user);
+			queryClient.setQueryData(["user"], user.user);
 			navigate("/dashboard");
 		},
 		onError: (err) => {
