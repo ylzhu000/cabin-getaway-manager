@@ -3,25 +3,18 @@
 export const guests = [
 	{
 		// id: 1000,
-		full_name: "Jonas Schmedtmann",
-		email: "hello@jonas.io",
+		full_name: "John Doe",
+		email: "hello@john.io",
 		nationality: "Portugal",
 		national_id: "3525436345",
 		country_flag: "https://flagcdn.com/pt.svg",
 	},
 	{
-		full_name: "Jonathan Smith",
+		full_name: "John Doe",
 		email: "johnsmith@test.eu",
 		nationality: "Great Britain",
 		national_id: "4534593454",
 		country_flag: "https://flagcdn.com/gb.svg",
-	},
-	{
-		full_name: "Jonatan Johansson",
-		email: "jonatan@example.com",
-		nationality: "Finland",
-		national_id: "9374074454",
-		country_flag: "https://flagcdn.com/fi.svg",
 	},
 	{
 		full_name: "Jonas Mueller",
