@@ -1,8 +1,8 @@
-# CabinGetaway Manager
+# Cabin Nest
 
-CabinGetaway Manager is a platform for managing cabin getaway houses. It allows authenticated users to add new cabins, update existing cabins, and remove cabins. Additionally, it includes features such as booking management, cabin filtering, and sorting. The project is built using React and bootstrapped with Vite, and Supabase is used for storing cabin and booking data.
+Cabin Nest is a platform for managing cabin getaway houses. It allows authenticated users to add new cabins, update existing cabins, and remove cabins. Additionally, it includes features such as booking management, cabin filtering, and sorting. The project is built using React and bootstrapped with Vite, and Supabase is used for storing cabin and booking data.
 
-**Demo Link: [CabinGetaway Manager](https://animated-fenglisu-e84d9f.netlify.app)**
+**Demo Link: [Cabin Nest](https://animated-fenglisu-e84d9f.netlify.app)**
 
 **Login Credentials:**
 
@@ -19,7 +19,7 @@ CabinGetaway Manager is a platform for managing cabin getaway houses. It allows 
 
 ## Introduction
 
-CabinGetaway Manager simplifies the management of cabin getaway houses. Authenticated users can add new cabins, update details, and remove cabins. The platform also includes a booking page for managing reservations and advanced filtering options for both cabins and bookings.
+Cabin Nest simplifies the management of cabin getaway houses. Authenticated users can add new cabins, update details, and remove cabins. The platform also includes a booking page for managing reservations and advanced filtering options for both cabins and bookings.
 
 ## Features
 
@@ -47,17 +47,17 @@ The project is built using the following technologies:
 
 ## Getting Started
 
-To get started with CabinGetaway Manager, follow these steps:
+To get started with Cabin Nest, follow these steps:
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ylzhu000/cabin-getaway-manager.git
+   git clone https://github.com/ylzhu000/cabin-nest.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd cabin-getaway-manager
+   cd cabin-nest
    ```
 3. Install dependencies
    ```
