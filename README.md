@@ -2,7 +2,7 @@
 
 Cabin Nest is a platform for managing cabin getaway houses. It allows authenticated users to add new cabins, update existing cabins, and remove cabins. Additionally, it includes features such as booking management, cabin filtering, and sorting. The project is built using React and bootstrapped with Vite, and Supabase is used for storing cabin and booking data.
 
-**Demo Link: [Cabin Nest](https://animated-fenglisu-e84d9f.netlify.app)**
+**Demo Link: [Cabin Nest](https://cabin-nest.vercel.app)**
 
 **Login Credentials:**
 
